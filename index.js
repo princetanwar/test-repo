@@ -3,6 +3,8 @@
  * @param {string} stones
  * @return {number}
  */
+
+console.log("new");
 var numJewelsInStones = function (jewels, stones) {
   let result = 0;
   for (let i = 0; i < jewels.length; i++) {
